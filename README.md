@@ -19,3 +19,4 @@ jobs:
           DB_USER: ${{ secrets.DB_USER }}
           DB_PASS: ${{ secrets.DB_PASS }}
           DB_CONN: ${{ secrets.DB_CONN }}
+          
